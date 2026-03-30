@@ -25,6 +25,6 @@ Exemplo:
 :root {
     --cor-verde: #28a745;
 }
-
+yuta
 <img width="373" height="197" alt="japavesgo" src="https://github.com/user-attachments/assets/8692076d-8d40-4613-b407-466e450e13d4" />
 "></img>
